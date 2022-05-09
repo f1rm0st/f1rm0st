@@ -2,7 +2,7 @@
 
 My name is Patricio Polo, I'am a Linux Sysadmin and a passionate for Cybersecurity
 
-* Currently working for [@pwcarg](https://www.pwc.com.ar/) as Senior Associate Cybersecurity
+* Currently working for [PwC Argentina](https://www.pwc.com.ar/) as Associate Cybersecurity
 * I'am Oracle Cloud Infrastructure Architect Associate 
 
 ## Skills
@@ -18,5 +18,5 @@ My name is Patricio Polo, I'am a Linux Sysadmin and a passionate for Cybersecuri
 
 ## Contact
 
-Find my in this direction -> [mail](f1rm0st@pm.me)
+Find my in this direction f1rm0st@pm.me
 
