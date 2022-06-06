@@ -2,7 +2,7 @@
 
 My name is Patricio Polo, I'am a Linux Sysadmin and a passionate for Cybersecurity
 
-* Currently working as Associate Cybersecurity
+* Currently working in Cybersecurity
 * I'am Oracle Cloud Infrastructure Architect Associate 
 
 ## Skills
