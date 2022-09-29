@@ -14,7 +14,7 @@ My name is Patricio Polo, I'am a Linux Sysadmin and a passionate for Cybersecuri
 * Middleware Admin.
 * Oracle Exadata and Oracle Exalogic admin.
 * VMware admin.
-* Critical thinking,, decision-making and problem solving skills.
+* Critical thinking, decision-making and problem solving skills.
 
 ## Contact
 
