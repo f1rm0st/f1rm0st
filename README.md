@@ -1,22 +1,42 @@
-## Hi 👋
+## Hi 👋 I'm Patricio
 
-My name is Patricio Polo, I'am a Linux Sysadmin and a passionate for Cybersecurity
+Cloud & Security Engineer with strong background in Linux systems, cloud infrastructure and cybersecurity operations.
 
-* Currently working in Cybersecurity
-* I'am Oracle Cloud Infrastructure Architect Associate 
+### 🔐 What I do
+- Cloud Security Engineering (AWS / OCI)
+- Cloud Operations & Support
+- Infrastructure hardening and monitoring
+- Incident response & troubleshooting
 
-## Skills
+### ☁️ Cloud & Platforms
+- **AWS**: EC2, VPC, IAM, Organizations, CloudWatch, CloudTrail, Config, S3, RDS, Lambda
+- **Oracle Cloud Infrastructure (OCI)**: Compute, Networking, IAM, Exadata
+- **Virtualization**: VMware
 
-* Linux Servers Admin.
-* Windows Servers Admin.
-* Networking.
-* Scripting Bash and Python.
-* Middleware Admin.
-* Oracle Exadata and Oracle Exalogic admin.
-* VMware admin.
-* Critical thinking, decision-making and problem solving skills.
+### 🖥️ Systems & Middleware
+- **Linux**: Amazon Linux, RedHat, Debian, Oracle Linux, CentOS, SUSE
+- **Windows Server**
+- **Middleware**: Oracle WebLogic, OSB, Tuxedo, IBM DataPower
+- **Containers**: Docker
+- **CI/CD**: Jenkins
 
-## Contact
+### 📊 Monitoring & Ops
+- Grafana
+- Datadog
+- OpsGenie
 
-Find my in this direction f1rm0st@pm.me
+### 🧠 Skills
+- Troubleshooting & incident management
+- Automation (Bash, Python)
+- Networking fundamentals
+- Critical thinking & problem solving
 
+### 🎓 Certifications
+- AWS Certified SysOps Administrator – Associate
+- AWS Certified Cloud Practitioner
+- Oracle Cloud Infrastructure Architect Associate
+- CCNA
+
+### 📫 Contact
+- 📧 f1rm0st@pm.me
+- 💼 LinkedIn: https://www.linkedin.com/in/patriciopolo
