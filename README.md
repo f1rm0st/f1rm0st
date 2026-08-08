@@ -8,35 +8,13 @@ Cloud & Security Engineer with strong background in Linux systems, cloud infrast
 - Infrastructure hardening and monitoring
 - Incident response & troubleshooting
 
-### ☁️ Cloud & Platforms
-- **AWS**: EC2, VPC, IAM, Organizations, CloudWatch, CloudTrail, Config, S3, RDS, Lambda
-- **Oracle Cloud Infrastructure (OCI)**: Compute, Networking, IAM, Exadata
-- **Virtualization**: VMware
-
-### 🖥️ Systems & Middleware
-- **Linux**: Amazon Linux, RedHat, Debian, Oracle Linux, CentOS, SUSE
-- **Windows Server**
-- **Middleware**: Oracle WebLogic, OSB, Tuxedo, IBM DataPower
-- **Containers**: Docker
-- **CI/CD**: Jenkins
-
-### 📊 Monitoring & Ops
-- Grafana
-- Datadog
-- OpsGenie
-
-### 🧠 Skills
-- Troubleshooting & incident management
-- Automation (Bash, Python)
-- Networking fundamentals
-- Critical thinking & problem solving
-
 ### 🎓 Certifications
-- AWS Certified SysOps Administrator – Associate
-- AWS Certified Cloud Practitioner
-- Oracle Cloud Infrastructure Architect Associate
 - CCNA
+- Oracle Cloud Infrastructure Architect Associate
+- AWS Certified Cloud Practitioner
+- AWS Certified SysOps Administrator – Associate
+- AWS Certified Solution Architect - Associate
 
 ### 📫 Contact
-- 📧 f1rm0st@pm.me
+- 📧 patriciopolo@pm.me
 - 💼 LinkedIn: https://www.linkedin.com/in/patriciopolo
